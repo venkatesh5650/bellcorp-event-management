@@ -1,0 +1,41 @@
+### Register User
+POST http://localhost:5000/api/auth/register
+Content-Type: application/json
+
+{
+  "name": "Venkatesh",
+  "email": "venky@test.com",
+  "password": "123456"
+}
+
+
+
+### Login User
+POST http://localhost:5000/api/auth/login
+Content-Type: application/json
+
+{
+  "email": "venky@test.com",
+  "password": "123456"
+}
+
+
+### Login User
+POST http://localhost:5000/api/auth/login
+Content-Type: application/json
+
+{
+  "email": "venkatesh5650@gmail.com",
+  "password": "Venkatesh@5650"
+}
+
+
+
+### GET EVENTS
+GET http://localhost:5000/api/events
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OGZkOWRlYWM3ZDBlZDk1MDBiNDcwZSIsImlhdCI6MTc3MTAzNTI4MiwiZXhwIjoxNzcxNjQwMDgyfQ.yN1dYjYWt60Qwvo61-zWUU60qjM1Db8MKhFbvsyjawc
+
+### Register Event
+POST http://localhost:5000/api/events/register/698fdc10781054910de30ac0
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OGZkOWRlYWM3ZDBlZDk1MDBiNDcwZSIsImlhdCI6MTc3MTAzNTI4MiwiZXhwIjoxNzcxNjQwMDgyfQ.yN1dYjYWt60Qwvo61-zWUU60qjM1Db8MKhFbvsyjawc
+
