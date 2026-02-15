@@ -8,8 +8,8 @@ This project was developed as part of the **Bellcorp Engineering Assignment**, f
 
 ## 🚀 Live Demo
 
-Frontend: https://bellcorp-event-management-delta.vercel.app
-Backend API: https://bellcorp-event-management-api.onrender.com
+- Frontend: https://bellcorp-event-management-delta.vercel.app
+- Backend API: https://bellcorp-event-management-api.onrender.com
 
 ---
 
@@ -101,9 +101,9 @@ npm install
 
 Create .env file:
 
-PORT=5000
-MONGO_URI=mongodb+srv://venkateshKarthan:Venkatesh5650@cluster.irqrmz3.mongodb.net/bellcorpDB?retryWrites=true&w=majority
-JWT_SECRET=7b9b2ad941e9d1d46268283a0919ab4826c7110ddfff87880e46be9d9eee366e
+- PORT=5000
+- MONGO_URI=mongodb+srv://venkateshKarthan:Venkatesh5650@cluster.irqrmz3.mongodb.net/bellcorpDB?retryWrites=true&w=majority
+- JWT_SECRET=7b9b2ad941e9d1d46268283a0919ab4826c7110ddfff87880e46be9d9eee366e
 
 Run backend:
 npm run dev
