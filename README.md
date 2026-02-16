@@ -125,7 +125,6 @@ Protected route example:
 POST /api/events/register/:id
 Authorization: Bearer <TOKEN>
 
-```
 
 ### 🧠 Engineering Highlights
 
