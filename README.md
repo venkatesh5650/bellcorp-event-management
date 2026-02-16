@@ -137,13 +137,13 @@ Authorization: Bearer <TOKEN>
 ## 📸 Screenshots
 
 ### 🎯 Events Page
-![Events Page](./screenshots/events.png)
+![Events Page](./screenshots/Events.png)
 
 ### 🔐 Login Page
 ![Login Page](./screenshots/login.png)
 
 ### 📊 Dashboard
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./screenshots/Dashboard.png)
 
 ### 📱 Mobile View
 ![Mobile View](./screenshots/MobileEvents.png)
