@@ -135,6 +135,21 @@ Authorization: Bearer <TOKEN>
 - Responsive grid-based UI design.
 - Secure JWT authentication flow.
 
+## 📸 Screenshots
+
+### 🎯 Events Page
+![Events Page](./screenshots/events.png)
+
+### 🔐 Login Page
+![Login Page](./screenshots/login.png)
+
+### 📊 Dashboard
+![Dashboard](./screenshots/dashboard.png)
+
+### 📱 Mobile View
+![Mobile View](./screenshots/MobileEvents.png)
+
+
 ### 🎥 Project Walkthrough
 
 Video Demo Link: [Add your Google Drive or YouTube link]
